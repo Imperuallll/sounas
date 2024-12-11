@@ -25,6 +25,6 @@ public class Mavenproject2 {
         student1.displayStudentsDetails();*/
        PhysicalProduct book = new PhysicalProduct("Βιβλίο", 15.0,
 50);
-
+        System.out.println("f");
     }
 }
